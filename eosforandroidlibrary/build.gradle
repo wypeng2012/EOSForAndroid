@@ -74,14 +74,19 @@ install {
                 }
                 dependencies {
                     dependency{
-                        groupId 'com.google.guava'
-                        artifactId 'guava'
-                        version '24.0-android'
+                        groupId 'com.squareup.retrofit2'
+                        artifactId 'retrofit'
+                        version '2.4.0'
                     }
                     dependency{
-                        groupId 'org.bouncycastle'
-                        artifactId 'bcprov-jdk15on'
-                        version '1.60'
+                        groupId 'com.squareup.retrofit2'
+                        artifactId 'converter-jackson'
+                        version '2.4.0'
+                    }
+                    dependency{
+                        groupId 'org.apache.commons'
+                        artifactId 'commons-lang3'
+                        version '3.6'
                     }
                 }
             }
