@@ -5,6 +5,8 @@ eos library for android
 
 > # support Android sdk >= 14 #
 
+中文版文档：[https://blog.csdn.net/wypeng2010/article/details/84855187](https://blog.csdn.net/wypeng2010/article/details/84855187)
+
 **- Use it**
 
 1. first add bip44forandroidlibrary dependencies
